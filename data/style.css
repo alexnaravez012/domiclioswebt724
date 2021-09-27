@@ -293,7 +293,7 @@
 }
 
 .drop-list-products-domicile {
-    height: 210px;
+    height: 280px !important;
     width: 850px;
     box-shadow: inset -2px 6px 8px -5px rgba(71, 71, 71, 0.25);
     overflow: auto;
