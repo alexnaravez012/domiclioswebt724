@@ -2203,27 +2203,27 @@ select {
 .box-active-blue {
     height: 40px;
     width: 100%;
-    background-color: #c7e0f9c9;
+    background-color: #eb5e5e6b;
     border: none;
     padding-left: 55px;
     cursor: pointer;
 }
 
 .box-active-blue:hover {
-    background-color: #9bccfdc9;
+    background-color: #eb5e5e8f;
 }
 
 .box-active-green {
     height: 40px;
     width: 100%;
-    background-color: #ADD7B0;
+    background-color: #f59e4765;
     border: none;
     padding-left: 55px;
     cursor: pointer;
 }
 
 .box-active-green:hover {
-    background-color: #9be2a0;
+    background-color: #f59e4781;
 }
 
 .subbox-active {
